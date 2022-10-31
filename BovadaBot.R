@@ -1,5 +1,5 @@
 #Bovada Bot
-#This bot looks at implied odds of a team sports team winning a game on bovada (sportsbook) and compares to
+#This bot looks at implied odds of a sports team winning a game on bovada (sportsbook) and compares to
 #the price on polymarket(prediction market), and purchases shares on polymarket if there is a significant discrepancy
 #This operates on the hypothesis that bovada is "better" at pricing than polymarket
 
